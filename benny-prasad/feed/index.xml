@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Benny Prasad	</title>
-	<atom:link href="http://localhost/benny-prasad/feed/?simply_static_page=328" rel="self" type="application/rss+xml" />
+	<atom:link href="/benny-prasad/feed/" rel="self" type="application/rss+xml" />
 	<link>/benny-prasad/</link>
 	<description>You are precious for Jesus!</description>
 	<lastBuildDate>Sat, 22 Apr 2023 10:55:34 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 </channel>
 </rss>

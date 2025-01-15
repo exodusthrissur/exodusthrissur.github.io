@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments for Exodus Thrissur	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=117" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>You are precious for Jesus!</description>
-	<lastBuildDate>Fri, 07 Jul 2023 20:21:30 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Dec 2023 14:42:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 </channel>
 </rss>
